@@ -1,0 +1,10 @@
+{
+  "equipment": [
+    { "id": "A-01", "name": "Thiết bị 1", "interval_days": 30,
+      "items": ["Vệ sinh", "Kiểm tra nguồn", "Bôi trơn", "Hiệu chuẩn"] },
+    { "id": "A-02", "name": "Thiết bị 2", "interval_days": 90,
+      "items": ["Vệ sinh", "Kiểm tra nguồn", "Thay lọc"] },
+    { "id": "A-03", "name": "Thiết bị 3", "interval_days": 180,
+      "items": ["Vệ sinh", "Hiệu chuẩn", "Kiểm tra an toàn"] }
+  ]
+}
