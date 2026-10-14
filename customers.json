@@ -1,0 +1,6 @@
+{
+  "customers": [
+    { "id": "A", "name": "Khách hàng A", "file": "data/A.json" },
+    { "id": "B", "name": "Khách hàng B", "file": "data/B.json" }
+  ]
+}
