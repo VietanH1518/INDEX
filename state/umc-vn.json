@@ -9,12 +9,21 @@
         "Dầu bôi trơn": {
           "by": "Win11@MSI",
           "at": "2026-10-19T13:45:26"
+        },
+        "Ngoại quan": {
+          "by": "Win11@MSI",
+          "at": "2026-10-19T13:45:31"
         }
       },
-      "last_done": null,
-      "last_done_by": null,
-      "completed": false,
-      "history": []
+      "last_done": "2026-10-19T13:45:31",
+      "last_done_by": "Win11@MSI",
+      "completed": true,
+      "history": [
+        {
+          "at": "2026-10-19T13:45:31",
+          "by": "Win11@MSI"
+        }
+      ]
     }
   }
 }
