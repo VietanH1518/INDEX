@@ -13,12 +13,21 @@
         "Kiểm tra nguồn": {
           "by": "Win11@MSI",
           "at": "2026-10-19T13:31:45"
+        },
+        "Hiệu chuẩn": {
+          "by": "Win11@MSI",
+          "at": "2026-10-19T13:31:48"
         }
       },
-      "last_done": null,
-      "last_done_by": null,
-      "completed": false,
-      "history": []
+      "last_done": "2026-10-19T13:31:48",
+      "last_done_by": "Win11@MSI",
+      "completed": true,
+      "history": [
+        {
+          "at": "2026-10-19T13:31:48",
+          "by": "Win11@MSI"
+        }
+      ]
     }
   }
 }
