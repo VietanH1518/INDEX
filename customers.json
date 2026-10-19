@@ -1,6 +1,19 @@
 {
   "customers": [
-    { "id": "A", "name": "Khách hàng A", "file": "data/A.json" },
-    { "id": "B", "name": "Khách hàng B", "file": "data/B.json" }
+    {
+      "id": "A",
+      "name": "Khách hàng A",
+      "file": "data/A.json"
+    },
+    {
+      "id": "B",
+      "name": "Khách hàng B",
+      "file": "data/B.json"
+    },
+    {
+      "id": "umc-vn",
+      "name": "UMC-VN",
+      "file": "data/umc-vn.json"
+    }
   ]
 }
