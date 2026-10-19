@@ -1,3 +1,14 @@
 {
-  "equipment": []
+  "equipment": [
+    {
+      "id": "robot-l300",
+      "name": "Robot L300",
+      "interval_days": 30,
+      "items": [
+        "Bánh xe",
+        "Dầu bôi trơn",
+        "Ngoại quan"
+      ]
+    }
+  ]
 }
