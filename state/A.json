@@ -1,0 +1,16 @@
+{
+  "devices": {
+    "A-01": {
+      "checked": {
+        "Vệ sinh": {
+          "by": "Win11@MSI",
+          "at": "2026-10-19T13:29:45"
+        }
+      },
+      "last_done": null,
+      "last_done_by": null,
+      "completed": false,
+      "history": []
+    }
+  }
+}
