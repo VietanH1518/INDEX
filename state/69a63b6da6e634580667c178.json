@@ -1,0 +1,21 @@
+{
+  "devices": {
+    "L355606i08894js": {
+      "checked": {
+        "Động cơ": {
+          "by": "Win11@MSI",
+          "at": "2026-10-29T10:40:41"
+        }
+      },
+      "last_done": "2026-10-29T10:40:41",
+      "last_done_by": "Win11@MSI",
+      "completed": true,
+      "history": [
+        {
+          "at": "2026-10-29T10:40:41",
+          "by": "Win11@MSI"
+        }
+      ]
+    }
+  }
+}
