@@ -13,6 +13,13 @@
       "items": [
         "Động cơ"
       ]
+    },
+    {
+      "id": "L355605e08568ec",
+      "interval_days": 30,
+      "items": [
+        "app"
+      ]
     }
   ]
 }
